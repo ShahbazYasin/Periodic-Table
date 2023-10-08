@@ -1,0 +1,50 @@
+h2,
+h3 {
+    text-align: center;
+
+}
+
+table,
+tr,
+th,
+td {
+    border: 2px solid rgb(2, 2, 2);
+    border-collapse: collapse;
+    text-align: center;
+    width: 2pc; height: 2pc;
+}
+
+.black {
+    border-color: #0e37ee00;
+}
+.color1 {
+  background-color: #FE0000;
+  
+}
+.color2 {
+  background-color: #FF9A00;
+}
+.color3 {
+  background-color: #FDFF03;
+}
+.color4 {
+  background-color: #329B68;
+}
+.color5 {
+    background-color: #33CCCB;
+}
+.color6 {
+    background-color: #6A6499;
+}
+.color7 {
+    background-color: #CE9AFF;
+}
+.color8 {
+    background-color: #C1C1C1;
+}
+.color9 {
+    background-color: white;
+}
+table {
+    width: 60%;
+}
